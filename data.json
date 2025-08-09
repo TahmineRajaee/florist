@@ -1,0 +1,250 @@
+{
+  "categories": [
+    {
+      "id": 10,
+      "title": "باکس گل",
+      "image": "https://github.com/TahmineRajaee/florist/blob/main/box/flower-box.png",
+      "products": [
+        {
+          "id": 1,
+          "title": "رز نباتی صورتی",
+          "price": 1558000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/box/flower-box-pinkwhiterose.png"
+        },
+        {
+          "id": 2,
+          "title": "رز و لیسیانتوس",
+          "price": 1500000,
+          "image": "/https://github.com/TahmineRajaee/florist/blob/main/box/flower-box-whitelisyantos.png"
+        },
+        {
+          "id": 3,
+          "title": "ارکیده و رز",
+          "price": 2200000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/box/flower-box-green.png"
+        },
+        {
+          "id": 4,
+          "title": "رز و آنتوریوم",
+          "price": 2300000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/box/flower-box-whiteantherium.png"
+        },
+        {
+          "id": 5,
+          "title": "ارکیده و رز",
+          "price": 3200000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/box/flower-box-orkiderose.png"
+        },
+        {
+          "id": 6,
+          "title": "رز و داوودی",
+          "price": 1500000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/box/flower-box-whitedavoodi.png"
+        },
+        {
+          "id": 7,
+          "title": "ارکیده و رز",
+          "price": 2713000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/box/flower-box-colorfull.png"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "سبد گل",
+      "image": "https://github.com/TahmineRajaee/florist/blob/main/basket/flower-basket.png",
+      "products": [
+        {
+          "id": 1,
+          "title": "آنتوریوم و اورینتال",
+          "price": 2440000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/basket/flower-basket-antherium.png"
+        },
+        {
+          "id": 2,
+          "title": "رز هلندی",
+          "price": 7332000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/basket/flower-basket-netherlandrose.png"
+        },
+        {
+          "id": 3,
+          "title": "آنتوریوم و رز مینیاتوری",
+          "price": 2371000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/basket/flower-basket-antheriumrose.png"
+        },
+        {
+          "id": 4,
+          "title": "داوودی و رز هلندی",
+          "price": 2213000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/basket/flower-basket-rosedavoodi.png"
+        },
+        {
+          "id": 5,
+          "title": "استرلیتزیا و آنتوریوم",
+          "price": 4230000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/basket/flower-basket-antheriumesterlisia.png"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "دسته گل",
+      "image": "https://github.com/TahmineRajaee/florist/blob/main/bunch/bunch-of-flower.png",
+      "products": [
+        {
+          "id": 1,
+          "title": "رز و آلسترومریا",
+          "price": 1510000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/bunch/bunch-of-flower-rosealstromeria.png"
+        },
+        {
+          "id": 2,
+          "title": "بیست شاخه رز گلبهی",
+          "price": 1998000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/bunch/bunch-of-flower-lightpinkrose.png"
+        },
+        {
+          "id": 3,
+          "title": "صد شاخه رز قرمز",
+          "price": 6698000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/bunch/bunch-of-flower-redrose.png"
+        },
+        {
+          "id": 4,
+          "title": "چهل شاخه رز سفید",
+          "price": 3200000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/bunch/bunch-of-flower-whiterose.png"
+        },
+        {
+          "id": 5,
+          "title": "آنمون رنگی",
+          "price": 2890000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/bunch/bunch-of-flower-anmoon.png"
+        },
+        {
+          "id": 6,
+          "title": "رز مینیاتوری",
+          "price": 4200000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/bunch/bunch-of-flower-pinkrose.png"
+        },
+        {
+          "id": 7,
+          "title": "بیست شاخه داوودی",
+          "price": 360000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/bunch/bunch-of-flower-yellowdavoodi.png"
+        },
+        {
+          "id": 8,
+          "title": "رز و ژربرا",
+          "price": 790000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/bunch/bunch-of-flower-redzherbera.png"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "گیاه آپارتمانی",
+      "image": "https://github.com/TahmineRajaee/florist/blob/main/plant/house-plant.png",
+      "products": [
+        {
+          "id": 1,
+          "title": "افوربیا",
+          "price": 2910000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/plant/houseplant-ephorbia.png"
+        },
+        {
+          "id": 2,
+          "title": "سانسوریا",
+          "price": 5500000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/plant/houseplant-sansaveria.png"
+        },
+        {
+          "id": 3,
+          "title": "یوکا",
+          "price": 1880000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/plant/houseplant-yuka.png"
+        },
+        {
+          "id": 4,
+          "title": "ارکیده بنفش",
+          "price": 1550000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/plant/houseplant-orkide.png"
+        },
+        {
+          "id": 5,
+          "title": "زاموفیلیا",
+          "price": 6800000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/plant/houseplant-zamophilia.png"
+        },
+        {
+          "id": 6,
+          "title": "پتوس",
+          "price": 630000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/plant/houseplant-petos.png"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "جام گل",
+      "image": "https://github.com/TahmineRajaee/florist/blob/main/glass/flower-glass.png",
+      "products": [
+        {
+          "id": 1,
+          "title": "آلسترومریا و ارکیده",
+          "price": 4500000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/glass/flower-glass-alstermeria.png"
+        },
+        {
+          "id": 2,
+          "title": "رز و ارکیده",
+          "price": 5700000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/glass/flower-glass-orkide.png"
+        },
+        {
+          "id": 3,
+          "title": "آنتوریوم و ارکیده",
+          "price": 6800000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/glass/flower-glass-antheriom.png"
+        },
+        {
+          "id": 4,
+          "title": "رز و ارکیده",
+          "price": 6300000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/glass/flower-glass-whiteorkide.png"
+        },
+        {
+          "id": 5,
+          "title": "آنتوریوم و رز",
+          "price": 4820000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/glass/flower-glass-rose.png"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "title": "تاج گل",
+      "image": "https://github.com/TahmineRajaee/florist/blob/main/stand/flower-stand.png",
+      "products": [
+        {
+          "id": 1,
+          "title": "آنتوریوم و لیلیوم",
+          "price": 6790000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/stand/flower-stand-anthuriomlilyom.png"
+        },
+        {
+          "id": 2,
+          "title": "آنتوریوم و لیسیانتوس",
+          "price": 4480000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/stand/flower-stand-anthuriomlisiantus.png"
+        },
+        {
+          "id": 3,
+          "title": "آنتوریوم",
+          "price": 11960000,
+          "image": "https://github.com/TahmineRajaee/florist/blob/main/stand/flower-stand-redanthuriom.png"
+        }
+      ]
+    }
+  ]
+}

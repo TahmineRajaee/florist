@@ -15,7 +15,7 @@
           "id": 2,
           "title": "رز و لیسیانتوس",
           "price": 1500000,
-          "image": "/https://raw.githubusercontent.com/TahmineRajaee/florist/main/box/flower-box-whitelisyantos.png"
+          "image": "https://raw.githubusercontent.com/TahmineRajaee/florist/main/box/flower-box-whitelisyantos.png"
         },
         {
           "id": 3,
@@ -248,3 +248,4 @@
     }
   ]
 }
+
